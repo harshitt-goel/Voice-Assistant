@@ -1,0 +1,1 @@
+const openAIKey = String.fromEnvironment('OPENAI_API_KEY');
